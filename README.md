@@ -31,8 +31,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by: Dineshkumar V
-Registeration Number : 212220230013
+Developed by: SAFA
+Registeration Number : 212220230040
 */
 ```
 
